@@ -1,0 +1,33 @@
+How to add your own textfile to the repo!
+
+
+1. Open up your terminal.
+
+2. Clone the repository(or repo) by running the following command
+
+```
+git clone https://github.com/wayfare/HelloRepo.git
+```
+
+3. After cloning the repository, go to the directory by running the following command
+
+```
+cd HelloRepo
+```
+
+4. Create a text file with your name 'yourname.txt' (ex. jaychae.txt)
+
+5. In the file, please briefly mention some of your past experience and projects you would like to work on.
+
+6. Go back to the terminal and run the following series of commands.
+
+```
+git add .
+git commit -m "YOUR NAME"
+git push origin master
+```
+
+It might ask you for username and password but it shouldn't be a problem.
+
+
+7. Go back to your browser and refresh the main repo page. You will see your file uploaded. Happy hacking!
