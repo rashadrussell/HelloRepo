@@ -1,0 +1,25 @@
+Rashad Russell
+
+Bio: 
+  
+  The majority of my experience comes from front-end development. I am also skilled in
+  UI design and Wordpress. I am a beginner in PHP, Javascript, and JQuery, but I can
+  hold my own. 
+  
+2012-2013 Goals: 
+
+  I want to become an experienced Python and Javascript developer. Any project that I 
+  work on this school year must contain both. Some involvement with HTML5 and CSS3 is
+  also important.
+
+Projects: 
+
+   Code_Central - PHP based website that features a blog, CMS, and social network.
+   I created this project to practice PHP. It is far from finished. I was able to get
+   the blog, CMS, and messaging system to work, but the friendship system still needs 
+   to be built.
+   
+   Web Monkeys Website - Our current website, www.acm.uiuc.edu/webmonkeys, will be put
+   on Github to allow members to edit the site.
+   
+   Portfolio - www.rashadrussell.com
