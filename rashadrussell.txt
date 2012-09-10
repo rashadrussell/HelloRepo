@@ -14,7 +14,8 @@ Bio:
   
 2012-2013 Project Idea
 
-  A collaboration text-editor with VoIP ability. Think of it as Google Docs for coders.
+  A collaboration text-editor with VoIP technology. Think of it as "Google Docs mixed
+  with Skype for coders".
 
 Projects: 
 
