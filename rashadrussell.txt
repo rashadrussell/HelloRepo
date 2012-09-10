@@ -15,7 +15,7 @@ Bio:
 2012-2013 Project Idea
 
   A collaboration text-editor with VoIP technology built with Python and Javascript. 
-  Think of it as "Google Docs mixed with Skype for coders". We read the Google Docs 
+  Think of it as "Google Docs mixed with Skype for coders". We can read the Google Docs 
   Blog, and learn about their solution to writing a collaboration software.
 
 Projects: 
